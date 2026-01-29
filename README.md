@@ -14,6 +14,7 @@ MENTOR: N.SANTOSH
 
 In this task i have donea dataset was loaded using Dask DataFrame, which supports parallel and scalable computation by dividing the dataset into partitions. The project includes data preprocessing and analysis such as:
 1.Dataset loading and overview 
+
 2.Checking missing/null values
 3.Purchase distribution analysis
 4.Gender distribution analysis
