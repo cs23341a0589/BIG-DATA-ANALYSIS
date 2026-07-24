@@ -1,18 +1,5 @@
 # BIG DATA ANALYSIS
-
-COMAPNY: CODETECH IT SOLUTIONS
-
-NAME: G.ROHIT
-
-INTERN ID: CTIS2378
-
-DOMAIN: DATA ANALYTICS
-
-DURATION: 4 WEEKS
-
-MENTOR: N.SANTOSH
-
-In this task i have donea dataset was loaded using Dask DataFrame, which supports parallel and scalable computation by dividing the dataset into partitions. The project includes data preprocessing and analysis such as:
+In this i have donea dataset was loaded using Dask DataFrame, which supports parallel and scalable computation by dividing the dataset into partitions. The project includes data preprocessing and analysis such as:
 
 1.Dataset loading and overview 
 
